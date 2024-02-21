@@ -1,0 +1,1 @@
+{:optimizations :advanced, :main demo.static-website, :output-to "out/main.js", :output-dir "out", :aot-cache true}
