@@ -2,4 +2,4 @@
 goog.provide('demo.static_website');
 goog.require('cljs.core');
 goog.require('cljs.core.constants');
-console.log("Hallo, Github Pages!");
+console.log("Hallo, Github Pages!!!!");
